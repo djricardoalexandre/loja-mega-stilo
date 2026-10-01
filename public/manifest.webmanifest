@@ -1,0 +1,13 @@
+{
+  "name": "Mega Stillo",
+  "short_name": "Mega Stillo",
+  "description": "Moda com personalidade para todos os momentos.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f1ec",
+  "theme_color": "#721d2a",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "/LOGO_NOVA_LOJA.jpg", "sizes": "512x512", "type": "image/jpeg", "purpose": "any maskable" }
+  ]
+}
